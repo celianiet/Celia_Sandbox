@@ -1,0 +1,15 @@
+<!--
+    templateType: global_partial
+    label: Global partial
+    isAvailableForNewContent: false
+-->
+<!-- Begin partial -->
+<header class="container-fluid">
+    <div class="content-wrapper">
+        <h1>{% module "text" path="@hubspot/text" value="Cats are wonderful" %}</h1>   
+    <div class="editable_quote">{% module "page_template_rich_text" path="@hubspot/rich_text" label="Rich Text" %}  </div>  
+      {% module "main_nav" path="@hubspot/menu", label="Menu" id="123456" %}
+    </div>
+    
+</header>
+<!-- End partial -->

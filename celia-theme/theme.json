@@ -1,0 +1,9 @@
+{
+    "label" : "Celia",
+    "preview_path": "./templates/home.html",
+    "author":{
+        "name":"Celia De Leon",
+        "email":"celianiet@gmail.com",
+        "url":"www.celiadeleon.net"
+      }
+}

@@ -1,0 +1,18 @@
+<!--
+    templateType: global_partial
+    label: Global partial
+    isAvailableForNewContent: false
+-->
+<!-- Begin partial -->
+<footer class="footer">
+{% dnd_area 'footer' class='footer__container content-wrapper', label='Footer' %}
+    {% dnd_section %}
+      {% dnd_column %}
+        {% dnd_row %}
+        {% module "main_nav" path="@hubspot/menu", label="Menu" id="123456" %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+{% end_dnd_area %}
+</footer> 
+<!-- End partial -->   

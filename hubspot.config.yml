@@ -1,0 +1,12 @@
+defaultPortal: CeliaSandbox
+portals:
+  - name: CeliaSandbox
+    portalId: 24938452
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CKPO2a-zLxIJAA0AAAAA4A0DGNSP8gsg3uKXBSju6QwyFD00XF3buEQ4710Q8v93twUB0OSNOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhQUqP0ImQEgwyj0tLJvTVpVJ-SrB0oDZXUx
+        expiresAt: '2021-08-11T16:05:45.894Z'
+    personalAccessKey: >-
+      CiRldTEtYjc4OC1hMTUwLTQ4M2EtYmM2Mi04ZGRkZmExY2MxZWQQ1I_yCxje4pcFKhkABeaRgrz5aU8fR0MQ627tymYCf5cqub94SgNldTE
